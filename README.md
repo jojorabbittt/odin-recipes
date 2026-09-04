@@ -1,1 +1,3 @@
 # odin-recipes
+
+Odin Recipes is the first project in The Odin Project. In this project, we must create a homepage that provides links to three recipes of our choosing. In each recipe page, we must provide an image, description, ingredients list, and step-by-step instructions to cook the dish. This project demonstrates foundational HTML skills such as elements and attributes like paragraphs, links, images, lists, headers, alt text, image sizing, and data protection. Additionally, this projects requires skills such as knowledge of Command Line Interface and git commands, file structures, and commits.
